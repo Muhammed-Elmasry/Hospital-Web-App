@@ -17,7 +17,7 @@ The Hospital Web App is a web-based application designed to manage hospital oper
 ## Demo
 You can see the demo: "Demo.mp4"
 
-![image.png]
+![Alt text](image.png)
 
 <video width="320" height="240" controls>
   <source src="demo.mp4" type="video/mp4">
