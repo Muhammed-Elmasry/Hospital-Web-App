@@ -14,8 +14,13 @@ The Hospital Web App is a web-based application designed to manage hospital oper
 - **CSS**: Styling of the web pages.
 - **SQLite**: Database.
 
-## DEMO 
-![video demo](demo.mp4)  
+## Demo
+Here is a demo video of the application:
+
+<video width="320" height="240" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Installation
 To run this project locally, follow these steps:
