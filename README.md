@@ -15,7 +15,7 @@ The Hospital Web App is a web-based application designed to manage hospital oper
 - **SQLite**: Database.
 
 ## Demo
-You can see the demo: "Demo.MP4"
+You can see the demo: "Demo.mp4"
 
 <video width="320" height="240" controls>
   <source src="demo.mp4" type="video/mp4">
