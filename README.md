@@ -1,7 +1,7 @@
 # Hospital Web App
 
 ## Overview
-The Hospital Web App is a web-based application designed to manage hospital operations such as patient records, appointments, and staff management. It is built using HTML, CSS, and Python.
+The Hospital Web App is a web-based application designed to manage hospital operations such as patient records, appointments, and staff management. It is built using Django, a high-level Python web framework.
 
 ## Features
 - Patient Management: Add, update, and delete patient records.
@@ -9,9 +9,10 @@ The Hospital Web App is a web-based application designed to manage hospital oper
 - Staff Management: Manage hospital staff details.
 
 ## Technologies Used
+- **Django**: Backend framework.
 - **HTML**: Structure of the web pages.
 - **CSS**: Styling of the web pages.
-- **Python**: Backend logic and database management.
+- **SQLite**: Database.
 
 ## Installation
 To run this project locally, follow these steps:
